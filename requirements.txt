@@ -440,6 +440,7 @@ pydantic==2.12.3
 pydantic-settings==2.14.0
 pydantic_core==2.41.4
 pydata-google-auth==1.9.1
+pydeck==0.9.2
 pydot==4.0.1
 pydotplus==2.0.2
 PyDrive2==1.21.3
@@ -452,6 +453,7 @@ PyGObject==3.48.2
 pyiceberg==0.11.1
 PyJWT==2.12.1
 pymc==5.28.4
+pyngrok==8.1.2
 pynndescent==0.6.0
 pyogrio==0.12.1
 pyomo==6.10.0
@@ -563,6 +565,7 @@ sse-starlette==3.3.4
 stanio==0.5.1
 starlette==0.52.1
 statsmodels==0.14.6
+streamlit==1.57.0
 strictyaml==1.7.3
 stringzilla==4.6.0
 stumpy==1.13.0
